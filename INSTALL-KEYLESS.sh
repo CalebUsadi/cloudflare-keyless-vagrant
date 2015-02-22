@@ -18,4 +18,5 @@ sudo make && sudo make install
 echo Tried to make and install keyless
 cd ..
 cp /vagrant/CAPTURE-TEST.sh CAPTURE-TEST.sh
-echo Placed CAPTURE-TEST.sh in home directory
+cp /vagrant/COPY-TEST-RESULTS.sh COPY-TEST-RESULTS.sh
+echo Placed CAPTURE-TEST.sh and COPY-TEST-RESULTS.sh in home directory
