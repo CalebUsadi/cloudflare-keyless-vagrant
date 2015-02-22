@@ -1,0 +1,3 @@
+.vagrant
+make-test-*.log
+make-test-*.pcap
